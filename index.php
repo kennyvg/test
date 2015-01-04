@@ -7,4 +7,5 @@
  */
 
 echo "test";
+echo "peop";
 ?>
